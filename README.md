@@ -13,8 +13,6 @@ Welcome to the Tic Tac Toe game! This project is a simple implementation of the 
 - [Technologies Used]
 - [Setup](#setup)
 - [How to Play]
-- [Contributing]
-- [License]
 
 ## Introduction
 
